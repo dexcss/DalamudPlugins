@@ -12,7 +12,8 @@ $sources = @(
     "https://raw.githubusercontent.com/dexcss/HousingLottoTracker/main/repo.json",
     "https://raw.githubusercontent.com/dexcss/MarketHelper/main/repo.json",
     "https://raw.githubusercontent.com/dexcss/Consolidator/main/repo.json",
-    "https://raw.githubusercontent.com/dexcss/MahjongAdvisor/main/repo.json"
+    "https://raw.githubusercontent.com/dexcss/MahjongAdvisor/main/repo.json",
+    "https://raw.githubusercontent.com/dexcss/GlamourSorter/main/repo.json"
 )
 
 # Where to write the combined file (current folder by default)
