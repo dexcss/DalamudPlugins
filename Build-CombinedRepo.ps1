@@ -13,6 +13,7 @@ $sources = @(
     "https://raw.githubusercontent.com/dexcss/MarketHelper/main/repo.json",
     "https://raw.githubusercontent.com/dexcss/Consolidator/main/repo.json",
     "https://raw.githubusercontent.com/dexcss/MahjongAdvisor/main/repo.json",
+    "https://raw.githubusercontent.com/dexcss/PrivateRoulette/main/repo.json",
     "https://raw.githubusercontent.com/dexcss/GlamourSorter/main/repo.json"
 )
 
