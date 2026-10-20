@@ -174,9 +174,7 @@
     },
     {
         "Author":  "Akari",
-        "Name":  "Private Roulette",
-        "InternalName":  "PrivateRoulette",
-        "AssemblyVersion":  "0.5.5.0",
+        $10.4.2",
         "TestingAssemblyVersion":  "0.5.5.0",
         "Description":  "Personal dealer-hosted gil roulette: provably-fair control spins, live web players, chat announcements and a dealer console worth watching. Whitelisted to authorized dealers only.",
         "ApplicableVersion":  "any",
