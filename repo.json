@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.5.0.0",
-    "TestingAssemblyVersion": "0.5.0.0",
+    "AssemblyVersion": "0.5.1.0",
+    "TestingAssemblyVersion": "0.5.1.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.5.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.5.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.5.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.5.1.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.5.1.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.5.1.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.5.0.0: pushes Rotation Solver targeting overrides (DutyConfig.RSR.TargetingTypeNonTank = HighMaxHP) so the bot attacks the boss rather than the dying adds - AutoDuty defaults to LowHP for non-tanks, which is why Banemite fights turned into add-clearing. Window toggle \"Attack the strongest enemy\". Arch Demon trio fits the board-1 roster again. v0.4.9.0: board-1 trios keep Cu Sith for the boss. v0.4.8.0: KO substitution + toggle watchdog. v0.4.7.0: config migration. v0.4.6.0: horn-order enforcement."
+    "Changelog": "v0.5.1.0: KO substitutes now match the encounter's weaknesses (wind/water for Ogre, etc.) instead of just picking the healthiest survivor. v0.5.0.0: pushes RSR targeting overrides (HighMaxHP) so the bot attacks the boss instead of dying adds. v0.4.9.0: board-1 trios keep Cu Sith for the boss. v0.4.8.0: KO substitution + toggle watchdog. v0.4.7.0: config migration. v0.4.6.0: horn-order enforcement. v0.4.5.0: curated trios from game data."
   }
 ]
