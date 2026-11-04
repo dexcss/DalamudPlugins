@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.4.5.0",
-    "TestingAssemblyVersion": "0.4.5.0",
+    "AssemblyVersion": "0.4.6.0",
+    "TestingAssemblyVersion": "0.4.6.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.5.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.5.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.5.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.6.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.6.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.6.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.4.5.0: curated per-encounter trios rebuilt from the game data - element from each familiar Trick and physical type from the Trick text (pet actions all report \"magic\", which is why Ogre got no wind pick) - plus rosters retuned per board for element coverage. v0.4.4.0: packaged manifest version fix. v0.4.3.0: versioned download URLs. v0.4.2.0: waits for food buff. v0.4.1.x: ActionManager food (HQ preferred). v0.4.0.0: no fallback trio, weakness-line scoring, board naming, food check."
+    "Changelog": "v0.4.6.0: horn-order enforcement - the resolved trio is placed on battlehorns 1-3 in list order, so Rotation Solver's per-horn One With Nature (Tempered/Borrow) is deterministic. v0.4.5.0: curated per-encounter trios rebuilt from the game data (element from each Trick, physical type from Trick text). v0.4.4.0: packaged manifest version fix. v0.4.3.0: versioned download URLs. v0.4.2.0: food buff wait/retry. v0.4.1.x: ActionManager food."
   }
 ]
