@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.19.1.0",
-    "TestingAssemblyVersion": "0.19.1.0",
+    "AssemblyVersion": "0.20.0.0",
+    "TestingAssemblyVersion": "0.20.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.19.1.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.19.1.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.19.1.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.20.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.20.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.20.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.19.1.0: resource gates come from the game action status instead of the job gauge (the gauge offsets do not match this client build), attribute axes are part of the GCD rotation, burst fires with Sunstrider/Moonstalker, Trick ungated. v0.19.0.0: combo/burst port. v0.18.0.0: cleanup."
+    "Changelog": "v0.20.0.0: potions at 70%, player HP in diagnostics. Pair with Pawprint potion purchases and 70% battle healing. v0.19.1.0: axes in rotation via action status. v0.19.0.0: combo/burst. v0.18.0.0: cleanup."
   }
 ]
