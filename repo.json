@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.18.0.0",
-    "TestingAssemblyVersion": "0.18.0.0",
+    "AssemblyVersion": "0.19.0.0",
+    "TestingAssemblyVersion": "0.19.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.18.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.18.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.18.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.19.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.19.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.19.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.18.0.0: cleanup release - removed dead AutoDuty bridge, horn autopilot, enemy intel, food/item helpers, board rosters, score mode and meta-trio code. Plugin is now degree + combat + horns + potions + whistle finisher. v0.17.2.0: melee reach fix. v0.17.0.0: queued action mode."
+    "Changelog": "v0.19.0.0: attack combo and burst ported from the ACR rules - attribute axe combo at 100 beast power / 100 TP (4596-4595 -> 44887/44888/44889/44884), 250 TP burst (44930/44931) with Sunstrider/Moonstalker, Trick only with combo resources, weapon filler uses the game combo id. v0.18.0.0: cleanup. v0.17.x: queued actions, GCD windows, melee reach, horn cast fixes."
   }
 ]
