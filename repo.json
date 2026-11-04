@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.7.0.0",
-    "TestingAssemblyVersion": "0.7.0.0",
+    "AssemblyVersion": "0.8.0.0",
+    "TestingAssemblyVersion": "0.8.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.7.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.7.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.7.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.7.0.0: drinks defensive Crucible consumables between fights - G2 Beastmaster Reraisser (95% auto-revive on KO), Temporal Sand (rewinds to the start of the fight when KO'd), Beast Potion Kit (auto-potion below 50% HP) and Beast Remedy Kit (auto-remedy) - so a death no longer ends the run. AutoDuty buys them; the plugin uses them. v0.6.0.0: score mode. v0.5.2.0: player HP in heartbeat logs. v0.5.0.0: RSR targeting overrides. v0.4.8.0: KO substitution."
+    "Changelog": "v0.8.0.0: weakness picks now use the community-verified beast-element table (which beasts deal fire/ice/wind/earth/lightning/water/blunt/pierce/slash via auto, Trick or Tempered Release) instead of the broken sheet parse; the stage window's weakness lines take priority over the curated list; every per-board roster rebuilt to cover all of its elements with redundancy. v0.7.0.0: drinks defensive crucible consumables. v0.6.0.0: score mode. v0.5.0.0: RSR targeting overrides."
   }
 ]
