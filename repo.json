@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.8.2.0",
-    "TestingAssemblyVersion": "0.8.2.0",
+    "AssemblyVersion": "0.8.3.0",
+    "TestingAssemblyVersion": "0.8.3.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.2.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.2.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.2.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.3.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.3.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.3.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.8.2.0: parses every enemy weakness in the stage window instead of only the first one, so multi-weakness fights (Ogre + Wisps = wind + water) are answered with both elements; and re-eats the meal when Well Fed has under 20 minutes left (threshold configurable). v0.8.1.0: defensive consumables re-checked after shopping. v0.8.0.0: verified beast-element table, weakness-first picks, rebuilt per-board rosters."
+    "Changelog": "v0.8.3.0: crucible items are attempted through the game action even when the normal inventory count reads 0 (they live outside the bags), and the board-1 roster now carries three wind and two water beasts so Ogre keeps both elements after deaths. v0.8.2.0: all enemy weaknesses parsed; meal re-eaten under 20 minutes. v0.8.1.0: defensive consumables retried after shopping. v0.8.0.0: verified element table + rebuilt rosters."
   }
 ]
