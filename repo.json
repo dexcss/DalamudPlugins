@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.25.0.0",
-    "TestingAssemblyVersion": "0.25.0.0",
+    "AssemblyVersion": "0.26.0.0",
+    "TestingAssemblyVersion": "0.26.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.25.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.25.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.25.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.26.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.26.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.26.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.25.0.0: pet retention - Release only at the horn HP thresholds, Borrow only for the auto-borrow slot, so the familiar keeps tanking instead of being dismissed at pull; horn slot read from the gauge without latch flapping. v0.24.0.0: resolver gates. v0.23.0.0: release 47092, per-horn finisher, snarl."
+    "Changelog": "v0.26.0.0: XSZYYS bridge - loads the installed PromeRotation and XSZYYS assemblies and executes their own resolvers (their code, our tick and action submission), no auth path involved; falls back to the built-in loop if loading fails. v0.25.0.0: pet retention. v0.24.0.0: resolver gate parity."
   }
 ]
