@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.29.0.0",
-    "TestingAssemblyVersion": "0.29.0.0",
+    "AssemblyVersion": "0.31.0.0",
+    "TestingAssemblyVersion": "0.31.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.29.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.29.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.29.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.31.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.31.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.31.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.29.0.0: fault-tolerant dependency walk - ECommons 3.2.0.3 now resolves from the plugin folders, which is what was blocking the ACR static initializers. v0.28.0.0: bridge diagnostics. v0.26.0.0: bridge."
+    "Changelog": "v0.31.0.0: dependency preload for the bridge - ECommons/Dalamud/FFXIVClientStructs are loaded into the default context before the ACR assemblies so their exact-version references bind. v0.30.0.0: bridge opt-in, degree defaults to First."
   }
 ]
