@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.4.8.0",
-    "TestingAssemblyVersion": "0.4.8.0",
+    "AssemblyVersion": "0.4.9.0",
+    "TestingAssemblyVersion": "0.4.9.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.8.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.8.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.8.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.9.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.9.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.9.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.4.8.0: a KO'd familiar can never be summoned again on that board, so the picker now substitutes a living beast instead of toggling the dead one forever; added a toggle watchdog that starts the fight instead of looping. v0.4.7.0: one-time config migration to the retuned rosters. v0.4.6.0: horn-order enforcement. v0.4.5.0: curated trios rebuilt from game data. v0.4.4.0: packaged manifest version fix. v0.4.3.0: versioned download URLs. v0.4.2.0: food buff wait/retry."
+    "Changelog": "v0.4.9.0: board-1 trios keep the fragile Cu Sith out of the first three fights (reserved for the piercing boss) - Bone Knight 5,31,25 / Arch Demon 13,33,25 / Banemite 21,5,25. v0.4.8.0: KO substitution (dead familiars are replaced instead of toggled forever) and a toggle watchdog. v0.4.7.0: config migration to retuned rosters. v0.4.6.0: horn-order enforcement. v0.4.5.0: trios rebuilt from game data. v0.4.4.0: manifest version fix. v0.4.3.0: versioned download URLs."
   }
 ]
