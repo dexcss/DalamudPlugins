@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.14.2.0",
-    "TestingAssemblyVersion": "0.14.2.0",
+    "AssemblyVersion": "0.15.0.0",
+    "TestingAssemblyVersion": "0.15.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.14.2.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.14.2.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.14.2.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.15.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.15.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.15.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.14.2.0: potion use cooldown (no more drinking two at once). v0.14.1.0: whistle/instinct values read from the same raw gauge offsets the ACR uses (16/17/19/24), horn summons have an 8s safety spacing, and combat diagnostics log owned battle npcs plus the raw gauge every 5s. v0.14.0.0: full XSZYYS behaviour port (countdown opener, pet-skill finisher, ranged fallback, capture, downtime axe)."
+    "Changelog": "v0.15.0.0: 按反编译逻辑对齐 ACR - 宠物识别改为 OwnerId==EntityId 且 BattleNpc 类型；Tempered Release/Borrow 需要 One with Nature(4601) 状态；坩埚道具改用 HUD 的背包槽位调用。v0.14.2.0: 药水 3 秒冷却。v0.14.1.0: 原始 gauge 偏移(16/17/19/24)读取 whistle/instinct。v0.14.0.0: 完整行为移植(开场倒数、宠物技能收尾、远程回退、捕获、空档 TP)。"
   }
 ]
