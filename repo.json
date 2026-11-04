@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.13.0.0",
-    "TestingAssemblyVersion": "0.13.0.0",
+    "AssemblyVersion": "0.14.0.0",
+    "TestingAssemblyVersion": "0.14.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.13.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.13.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.13.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.14.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.14.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.14.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.13.0.0: beastmaster job gauge reader (TP gauge, pet TP, active battlehorn, instinct stacks) and gauge-driven decisions - cheer/rally only when the stacks exist, horn slot taken from ActiveBattlehorn, burst action added to the oGCD chain. v0.12.3.0: oGCD resolver order (shield charge, borrow, beast mode, cheer, rally, trick, parting blow) and familiar-based horn gating."
+    "Changelog": "v0.14.0.0: full XSZYYS behaviour port - pre-pull countdown opener (third horn, borrow, first horn), pet-skill Parting Blow finisher (49428/49429 cast with pet level check), ranged fallback, capture GCD, downtime Avalanche Axe, gauge-gated cheer/rally, familiar-gated battlehorns, crucible potions and per-horn Tempered Release thresholds. v0.13.0.0: beastmaster gauge reader."
   }
 ]
