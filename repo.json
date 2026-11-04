@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.4.6.0",
-    "TestingAssemblyVersion": "0.4.6.0",
+    "AssemblyVersion": "0.4.7.0",
+    "TestingAssemblyVersion": "0.4.7.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.6.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.6.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.6.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.7.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.7.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.7.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.4.6.0: horn-order enforcement - the resolved trio is placed on battlehorns 1-3 in list order, so Rotation Solver's per-horn One With Nature (Tempered/Borrow) is deterministic. v0.4.5.0: curated per-encounter trios rebuilt from the game data (element from each Trick, physical type from Trick text). v0.4.4.0: packaged manifest version fix. v0.4.3.0: versioned download URLs. v0.4.2.0: food buff wait/retry. v0.4.1.x: ActionManager food."
+    "Changelog": "v0.4.7.0: one-time config migration (Version 2) so existing installs switch to the retuned per-board rosters instead of keeping the old saved ones. v0.4.6.0: horn-order enforcement. v0.4.5.0: curated trios rebuilt from the game data. v0.4.4.0: packaged manifest version fix. v0.4.3.0: versioned download URLs. v0.4.2.0: food buff wait/retry. v0.4.1.x: ActionManager food."
   }
 ]
