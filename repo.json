@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.9.1.0",
-    "TestingAssemblyVersion": "0.9.1.0",
+    "AssemblyVersion": "0.10.0.0",
+    "TestingAssemblyVersion": "0.10.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.9.1.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.9.1.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.9.1.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.10.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.10.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.10.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.9.1.0: degree helper - sets the Crucible Mode (Third Degree) on the pre-battle window for runs driven by another plugin such as Pawprint, which never touches the degree. v0.9.0.0: community meta trio mode. v0.8.0.0: verified element table, weakness-first picks, rebuilt rosters."
+    "Changelog": "v0.10.0.0: XSZYYS-style whistle plan - presses Tempered Release when the target is under the active horn finisher threshold (horn1 10%, horn2 40%, horn3 20%), optional AutoBorrow on horn 3. Runs alongside Pawprint (routing/items) and RSR (rotation). v0.9.1.0: degree helper. v0.9.0.0: community meta trio mode."
   }
 ]
