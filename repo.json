@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.11.0.0",
-    "TestingAssemblyVersion": "0.11.0.0",
+    "AssemblyVersion": "0.12.0.0",
+    "TestingAssemblyVersion": "0.12.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.11.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.11.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.11.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.12.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.12.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.12.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.11.0.0: whistle fix - active horn is latched from the 2s horn recast window and kept until the next horn (previously it was re-detected each tick and usually found nothing), so the Tempered Release finisher fires at the right per-horn threshold; also dumps the crucible HUD values once per board to map item slots for automatic potion use. v0.10.0.0: whistle plan. v0.9.1.0: degree helper. v0.9.0.0: meta trio mode."
+    "Changelog": "v0.12.0.0: own Crucible combat loop - battlehorn summons, axe combo (Smash Axe > Axeblade Bite > Shieldsplitter), TP spenders, familiar oGCDs (Trick/Parting Blow/Shield Charge), automatic crucible potions through the game item-use call, target assist, plus the per-horn Tempered Release finisher. Turn RSR off for Beastmaster when using it. v0.11.0.0: horn latch + HUD dump. v0.10.0.0: whistle plan."
   }
 ]
