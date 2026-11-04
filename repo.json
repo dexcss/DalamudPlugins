@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.17.0.0",
-    "TestingAssemblyVersion": "0.17.0.0",
+    "AssemblyVersion": "0.17.1.0",
+    "TestingAssemblyVersion": "0.17.1.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.1.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.1.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.1.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.17.0.0: actions submitted with UseActionMode.Queue like PromeRotation (forced use was fighting the game queue and cancelling horn casts), and every decision is blocked while a cast is in progress. v0.16.0.0: animation-lock and GCD-window gating (action 7411). v0.15.1.0: horn cast stationary gating. v0.15.0.0: familiar detection, One with Nature gate, inventory-slot items."
+    "Changelog": "v0.17.1.0: melee range gate (no more wasted GCDs at out-of-range targets, ranged fallback used instead) and nearest-hostile target selection. v0.17.0.0: queued action mode. v0.16.0.0: animation lock + GCD windows. v0.15.1.0: horn cast stationary gating."
   }
 ]
