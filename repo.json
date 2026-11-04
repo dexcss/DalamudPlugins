@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.27.0.0",
-    "TestingAssemblyVersion": "0.27.0.0",
+    "AssemblyVersion": "0.28.0.0",
+    "TestingAssemblyVersion": "0.28.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.27.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.27.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.27.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.28.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.28.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.28.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.27.0.0: bridge assembly resolution for Dalamud/FFXIVClientStructs/ECommons plus automatic fallback after 6s without actions. v0.26.0.0: bridge loads the ACR resolvers. v0.25.0.0: pet retention."
+    "Changelog": "v0.28.0.0: bridge diagnostics - dependency lookup across all plugin folders, PAction field reads, full inner exception chains logged once. v0.27.0.0: bridge resolution + fallback. v0.26.0.0: bridge loads ACR resolvers."
   }
 ]
