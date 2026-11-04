@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.23.0.0",
-    "TestingAssemblyVersion": "0.23.0.0",
+    "AssemblyVersion": "0.24.0.0",
+    "TestingAssemblyVersion": "0.24.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.23.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.23.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.23.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.24.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.24.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.24.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.23.0.0: Tempered Release uses the live action id (47092 via adjusted lookup; 44890 is stale), Parting Blow is a deliberate once-per-horn finisher after Release instead of random pet-cast triggers, and Snarl (46751) returns aggro to the familiar. v0.22.0.0: exact gauge read. v0.21.0.0: release/borrow cooldowns."
+    "Changelog": "v0.24.0.0: resolver-by-resolver re-verification against the ACR - cheer at 100 beast power, rally at 3 hearts, downtime axe at 100 TP. v0.23.0.0: release via adjusted id (47092), parting blow as per-horn finisher, snarl aggro. v0.22.0.0: exact gauge read."
   }
 ]
