@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.8.0.0",
-    "TestingAssemblyVersion": "0.8.0.0",
+    "AssemblyVersion": "0.8.1.0",
+    "TestingAssemblyVersion": "0.8.1.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.1.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.1.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.8.1.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.8.0.0: weakness picks now use the community-verified beast-element table (which beasts deal fire/ice/wind/earth/lightning/water/blunt/pierce/slash via auto, Trick or Tempered Release) instead of the broken sheet parse; the stage window's weakness lines take priority over the curated list; every per-board roster rebuilt to cover all of its elements with redundancy. v0.7.0.0: drinks defensive crucible consumables. v0.6.0.0: score mode. v0.5.0.0: RSR targeting overrides."
+    "Changelog": "v0.8.1.0: defensive consumables (reraisser, potion/remedy kit, temporal sand) are re-checked and drunk whenever AutoDuty buys them during the board, not just at board entry. v0.8.0.0: weakness picks use the community-verified beast-element table for all nine damage types; stage-window weakness lines take priority over curated trios; all per-board rosters rebuilt for element coverage with redundancy. v0.7.0.0: uses defensive consumables. v0.6.0.0: score mode."
   }
 ]
