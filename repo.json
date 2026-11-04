@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.9.0.0",
-    "TestingAssemblyVersion": "0.9.0.0",
+    "AssemblyVersion": "0.9.1.0",
+    "TestingAssemblyVersion": "0.9.1.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.9.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.9.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.9.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.9.1.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.9.1.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.9.1.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.9.0.0: community meta trio mode (default on). The shared Pawprint perfect-run presets keep ONE three-beast team for the whole board - Mantis(16)/Wespe(10)/Cu Sith(1), Colibri(32) replacing Cu Sith on First Master's - with heal thresholds at 50%, food, and retry-after-death, instead of swapping weakness counters every fight. Also stops retrying crucible consumable item actions after three refusals. Board-1 element roster regains blunt redundancy. v0.8.3.0: item action attempts. v0.8.2.0: all weaknesses parsed, food refreshed under 20 min."
+    "Changelog": "v0.9.1.0: degree helper - sets the Crucible Mode (Third Degree) on the pre-battle window for runs driven by another plugin such as Pawprint, which never touches the degree. v0.9.0.0: community meta trio mode. v0.8.0.0: verified element table, weakness-first picks, rebuilt rosters."
   }
 ]
