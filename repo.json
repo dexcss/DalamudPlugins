@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.21.0.0",
-    "TestingAssemblyVersion": "0.21.0.0",
+    "AssemblyVersion": "0.22.0.0",
+    "TestingAssemblyVersion": "0.22.0.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.21.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.21.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.21.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.22.0.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.22.0.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.22.0.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.21.0.0: Tempered Release and Borrow pressed on their 30s cooldown while the familiar is empowered (they were only firing at the HP thresholds, leaving the pet nuke unused most of the fight). v0.20.0.0: potions at 70 percent, HP diagnostics. v0.19.x: axes in rotation, combo/burst."
+    "Changelog": "v0.22.0.0: gauge read now matches the ACR byte-for-byte (raw bytes at the JobGaugeManager CurrentGauge field address: TP +16, power +17, whistle +19, heart +24). Resource gates drive the axe combo and burst again, and diagnostics dump 48 raw gauge bytes. v0.21.0.0: release/borrow on cooldown. v0.20.0.0: potions 70 percent, HP trace."
   }
 ]
