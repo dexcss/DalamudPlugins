@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.17.1.0",
-    "TestingAssemblyVersion": "0.17.1.0",
+    "AssemblyVersion": "0.17.2.0",
+    "TestingAssemblyVersion": "0.17.2.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.1.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.1.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.1.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.2.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.2.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.17.2.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.17.1.0: melee range gate (no more wasted GCDs at out-of-range targets, ranged fallback used instead) and nearest-hostile target selection. v0.17.0.0: queued action mode. v0.16.0.0: animation lock + GCD windows. v0.15.1.0: horn cast stationary gating."
+    "Changelog": "v0.17.2.0: melee reach threshold fixed to 5.5m (the 3.2m gate held melee because real weapon+hitbox reach puts you at 3.3-3.4m), ranged fallback beyond it. v0.17.1.0: nearest-target selection. v0.17.0.0: queued action mode."
   }
 ]
