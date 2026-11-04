@@ -255,8 +255,8 @@
     "Author": "dexcss",
     "Name": "CruciblePilot",
     "InternalName": "CruciblePilot",
-    "AssemblyVersion": "0.12.0.0",
-    "TestingAssemblyVersion": "0.12.0.0",
+    "AssemblyVersion": "0.12.1.0",
+    "TestingAssemblyVersion": "0.12.1.0",
     "Description": null,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/dexcss/CruciblePilot",
@@ -268,14 +268,14 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.12.0.0/CruciblePilot.zip",
-    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.12.0.0/CruciblePilot.zip",
-    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.12.0.0/CruciblePilot.zip",
+    "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.12.1.0/CruciblePilot.zip",
+    "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.12.1.0/CruciblePilot.zip",
+    "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.12.1.0/CruciblePilot.zip",
     "CategoryTags": [
       "Utility",
       "Automation"
     ],
     "AcceptsFeedback": true,
-    "Changelog": "v0.12.0.0: own Crucible combat loop - battlehorn summons, axe combo (Smash Axe > Axeblade Bite > Shieldsplitter), TP spenders, familiar oGCDs (Trick/Parting Blow/Shield Charge), automatic crucible potions through the game item-use call, target assist, plus the per-horn Tempered Release finisher. Turn RSR off for Beastmaster when using it. v0.11.0.0: horn latch + HUD dump. v0.10.0.0: whistle plan."
+    "Changelog": "v0.12.1.0: battlehorn gating - horns are summoned one at a time in order, spaced by a configurable interval (12s default) and reset per fight, instead of the opener burning all three at once. v0.12.0.0: own Crucible combat loop (horns, axe combo, TP spenders, oGCDs, crucible potions, target assist, whistle finisher). v0.11.0.0: horn latch + HUD dump."
   }
 ]
